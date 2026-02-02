@@ -1,4 +1,5 @@
 🎬 Analyzing and Visualizing Movie Ratings
+
 📌 Project Overview
 
 This project focuses on analyzing and visualizing movie ratings using a real-world dataset (such as IMDb or Rotten Tomatoes).
